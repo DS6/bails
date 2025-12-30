@@ -58,7 +58,7 @@
   },
   "peerDependencies": {
     "link-preview-js": "^3.0.0",
-    "sharp": "^0.32.6"
+    "sharp": "*"
   },
   "peerDependenciesMeta": {
     "link-preview-js": {
